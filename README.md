@@ -1,18 +1,18 @@
-**# FutureJoin**
+#**FutureJoin**
 **FutureJoin** is a MERN-based platform that connects interns and volunteers with opportunities. Applicants can easily register and share details, while admins securely review and manage submissions in real time—streamlining recruitment for impactful careers and community work. 
 
 **Features**
 
->Home Page with clear navigation.
->Applicant Registration Form for interns and volunteers.
->Admin Dashboard (protected by admin key) to view/manage applicants.
+Home Page with clear navigation.
+Applicant Registration Form for interns and volunteers.
+Admin Dashboard (protected by admin key) to view/manage applicants.
 
 **Tech Stack**
 
->MongoDB – database for storing applicants.
->Express.js – backend server framework.
->React.js – frontend user interface.
->Node.js – backend runtime environment.
+MongoDB – database for storing applicants.
+Express.js – backend server framework.
+React.js – frontend user interface.
+Node.js – backend runtime environment.
 
 ### **Quick Start**
 
